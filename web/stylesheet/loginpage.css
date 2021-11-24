@@ -1,4 +1,13 @@
-table{
-	width: 100%;
-	border-style: groove;
+h1{
+	background-color: skyblue;
+	font-size: 45px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+a{	
+	background-color: yellowgreen;
+    color: blue;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-bottom: 15px;
 }
