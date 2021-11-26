@@ -2,6 +2,6 @@
 
 ## Some think in this repo:
 
-* Java OOP, Java Script, HTML, CSS.
+* Java OOP, HTML, CSS, JSTL.
 * Servlet, Filter,..
 * URLRewriting, HttpSession, SiteMapProperty,.. 
